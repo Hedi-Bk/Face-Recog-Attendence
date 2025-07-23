@@ -1,4 +1,4 @@
-[Demo](DemoAttendence.gif)
+![Demo](DemoAttendence.gif)
 
 # 🎯 Real-Time Face Attendance System with Firebase
 
