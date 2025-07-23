@@ -1,0 +1,18 @@
+# ⚠️ Clé privée Firebase
+serviceAccountKey.json
+
+# 🔐 Données encodées des visages
+EncodedFile.p
+
+# 📦 Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+
+TEST.ipynb
+
+# 👤 Images personnelles (optionnel selon ton choix)
+images/*.jpg
+
+# 💻 Cache et fichiers compilés
+__pycache__/
+*.pyc
+*.pyo
